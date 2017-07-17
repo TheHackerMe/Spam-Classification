@@ -1,2 +1,2 @@
 # Spam-Classification
-Detecting sms spam using Naive Bayes Algorithm
+Detecting sms spam messages using Naive Bayes Algorithm
